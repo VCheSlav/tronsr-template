@@ -1,9 +1,9 @@
                                                  Tronix International
 
-A Free Space, Empowering Individuals to Connect, Barter, Trade, Build and Work Together Freely.  Without Third Party Interference
+ A Free Space, Empowering Individuals to Connect, Barter, Trade, Build and Work Together Freely.  Without Third Party Interference
 
                                                    SOCIAL PLATFORM
-Connect With Other TRONIX Enthusiasts. Promote Ideas, Projects, etc.
+                           Connect With Other TRONIX Enthusiasts. Promote Ideas, Projects, etc.
 
                                                   PROGRESS TOGETHER
-Collaborate, With Anyone, Anywhere. Post: Jobs, DApps, Skills, Projects, Goods and or Services.</p>
+              Collaborate, With Anyone, Anywhere. Post: Jobs, DApps, Skills, Projects, Goods and or Services.
