@@ -1,6 +1,6 @@
 <h1 align="center">Tronix International</h1>
-<h2> A free space, empowering individuals to connect, barter, trade, build and work together freely.  Without third party interference.<h2>
-<h4>SOCIAL PLATFORM  
+<h2 align="center">A Free Space, Empowering Individuals to Connect, Barter, Trade, Build and Work Together Freely.  Without Third Party Interference</h2>
+<h4 align="center">SOCIAL PLATFORM</h4>  
 Connect with other TRONIX enthusiasts. Promote ideas, projects/ updates.
-<h4>PROGRESS TOGETHER 
+<h4 align="center">PROGRESS TOGETHER</h4> 
 Collaborate, with anyone, anywhere. Post jobs, DApps, projects, goods and or services.
