@@ -1,8 +1,8 @@
-<h2 align="center"> Tronix International </h2>
+TRONIX INTERNATIONAL-
 A Free Space, Empowering Individuals to Connect, Barter, Trade, Build and Work Together Freely.  Without Third Party Interference
 
-SOCIAL PLATFORM
+SOCIAL PLATFORM-
 Connect With Other TRONIX Enthusiasts. Promote Ideas, Projects, etc.
 
-PROGRESS TOGETHER
+PROGRESS TOGETHER-
 Collaborate, With Anyone, Anywhere. Post: Jobs, DApps, Skills, Projects, Goods and or Services.
